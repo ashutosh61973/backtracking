@@ -1,0 +1,1 @@
+{"name":"Local: mcoloring","url":"g:\\cpp\\practice\\backtraking\\mcoloring.cpp","tests":[{"id":1610256080498,"input":"\n4\n3\n5\n1 2\n2 3\n3 4\n4 1\n1 3","output":"1"},{"id":1610262219139,"input":"3\n2\n3\n1 2\n2 3\n1 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\cpp\\practice\\backtraking\\mcoloring.cpp","group":"local","local":true}

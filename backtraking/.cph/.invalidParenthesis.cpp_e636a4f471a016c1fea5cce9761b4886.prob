@@ -1,0 +1,1 @@
+{"name":"Local: invalidParenthesis","url":"g:\\cpp\\practice\\invalidParenthesis.cpp","tests":[{"id":1610088581590,"input":"(a)())()","output":"1.[(a)()()]\n2.[(a())()]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\cpp\\practice\\invalidParenthesis.cpp","group":"local","local":true}

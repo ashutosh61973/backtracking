@@ -1,0 +1,1 @@
+{"name":"Local: Nqueens","url":"g:\\cpp\\practice\\backtraking\\Nqueens.cpp","tests":[{"id":1610174906849,"input":"2\n4\n5","output":"2\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\cpp\\practice\\backtraking\\Nqueens.cpp","group":"local","local":true}

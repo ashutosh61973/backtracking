@@ -1,0 +1,1 @@
+{"name":"Local: palindromic_partition","url":"g:\\cpp\\practice\\backtraking\\palindromic_partition.cpp","tests":[{"id":1610268673107,"input":"1\nmunni","output":"n i t i n\nn iti n\nnitin"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\cpp\\practice\\backtraking\\palindromic_partition.cpp","group":"local","local":true}

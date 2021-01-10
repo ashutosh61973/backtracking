@@ -1,0 +1,1 @@
+{"name":"Local: wordbreak","url":"g:\\cpp\\practice\\wordbreak.cpp","tests":[{"id":1610075635145,"input":"2\n5\nlr m lrm hcdar wk\nhcdarlrm\n5\ncats dog sand and cat\ncatsandog","output":"(hcdar lrm m ) (hcdar lrm )\nno way to break the string"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\cpp\\practice\\wordbreak.cpp","group":"local","local":true}
